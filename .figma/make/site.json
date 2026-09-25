@@ -1,0 +1,10 @@
+{
+  "description": "Manage rental agreements and finances seamlessly with a dedicated platform for landlords and tenants, ensuring accurate record-keeping and easy access to essential information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
